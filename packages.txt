@@ -1,2 +1,2 @@
 libgl1-mesa-glx
-libjpeg-turbo8-dev
+libjpeg62-turbo-dev
